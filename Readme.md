@@ -14,5 +14,5 @@ This tool fetches live rates from ExchangeRate-API and instantly converts any KE
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/YOUR-USERNAME/api-portfolio.git
+git clone https://github.com/alexmugendi39-svg/api-portfolio.git
 cd api-portfolio
