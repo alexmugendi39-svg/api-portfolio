@@ -16,7 +16,7 @@ This tool fetches live rates from ExchangeRate-API and instantly converts any KE
 ```bash
 git clone https://github.com/alexmugendi39-svg/api-portfolio.git
 cd api-portfolio
-## 2. News Brief Generator
+## 2. News Brief Generator1
 
 Fetches today's top 5 headlines by category (Technology, Business, Health, Sports, Science).
 
